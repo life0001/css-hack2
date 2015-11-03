@@ -1,5 +1,5 @@
 # css-hack2
-<h4>属性级Hack</h4>
+<h4><a href="http://css.doyoe.com/">属性级Hack</a></h4>
 
 <pre>
 取值：
